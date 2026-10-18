@@ -5,10 +5,13 @@ Quiz nights with friends: the host shares their screen (TV or Discord stream), e
 
 ## Install
 
-1. Download the newest `Quiznight-…-windows.zip` from **[Releases](../../releases/latest)**.
-2. Unzip it into a folder of your own (e.g. `Documents\Quiznight`) — not into *Program Files*.
-3. Start `Quiznight.exe`. Steam needs to be running (Quiznight uses Steam to connect; it shows as
-   "playing Spacewar").
+Download the newest build from **[Releases](../../releases/latest)** and unzip it into a folder of your own
+(e.g. `Documents\Quiznight` — not into *Program Files*). Steam needs to be running: Quiznight connects
+through Steam and shows as "playing Spacewar".
+
+- **Windows:** `Quiznight-…-windows.zip`, then start `Quiznight.exe`.
+- **Linux (64-bit):** `Quiznight-…-linux.zip`, then start `Quiznight.x86_64`. If it won't start, make it
+  runnable first: `chmod +x Quiznight.x86_64`.
 
 From then on the game **updates itself**: when a new version is out, it downloads it on start, restarts and
 shows you what's new.
