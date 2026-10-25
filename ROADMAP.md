@@ -15,9 +15,12 @@ update); the rest is planned. Plans can change: whatever turns out not to be fun
 - [ ] Questions and quizzes for the first proper night
 - [ ] Map pin: "buzz in first, then place your pin"
 - [ ] More game maps for map pin
+- [ ] Game design changes: anything that isn't fun when we play gets changed or removed before 1.0
+
+## Coming in a 0.10 update (after 0.10.2)
+
 - [ ] A smaller download: right now it's about 195 MB zipped and 300 MB unpacked, most of it the game engine, the
   maps and the converter that comes along. Updates stay small as before.
-- [ ] Game design changes: anything that isn't fun when we play gets changed or removed before 1.0
 
 ## Maybe for 0.10.0
 
