@@ -17,3 +17,5 @@ From then on the game **updates itself**: when a new version is out, it download
 shows you what's new.
 
 This repository only holds the finished builds; there's no code here.
+
+What's coming next: see the **[Roadmap](ROADMAP.md)**.
