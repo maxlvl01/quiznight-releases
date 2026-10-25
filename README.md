@@ -1,4 +1,4 @@
-# Quiznight! — game downloads
+# Quiznight? — game downloads
 
 Quiz nights with friends: the host shares their screen (TV or Discord stream), everyone joins with a
 4-letter code from their own PC and buzzes in.
